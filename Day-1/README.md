@@ -13,5 +13,4 @@ potential scams and phishing attempts.
 - LangChain
 - Groq LLM
 
-## Status
-Day 1 - In Progress
+
