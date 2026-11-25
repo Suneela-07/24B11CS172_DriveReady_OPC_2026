@@ -67,5 +67,3 @@ ScamShield analyzes each message and provides a classification, risk level, susp
 - Learned basic API error handling.
 - Built an interactive AI-based cybersecurity chatbot.
 
-## Note
-ScamShield provides AI-based message analysis. It does not independently confirm whether a URL is malicious or verify its live reputation unless connected to an external threat-intelligence service.
