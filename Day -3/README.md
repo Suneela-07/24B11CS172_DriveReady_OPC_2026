@@ -74,5 +74,4 @@ This demonstrates the basic agent structure. The current version does not use ex
 - Improve scam classification and testing with a larger dataset.
 - Generate detailed scam analysis reports.
 
-## Note
-The current implementation analyzes message content using an AI language model. It does not guarantee scam detection and does not perform live URL reputation verification without an external security integration.
+
